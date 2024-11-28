@@ -73,9 +73,9 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 3px 0; /* Reducido el padding para hacer el pie de página más pequeño */
+    padding: 5px 0; /* Reducido el padding para hacer el pie de página más pequeño */
     position: fixed;
-    width: 50%;
+    width: 100%;
     bottom: 0;
 }
 
