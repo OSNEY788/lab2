@@ -75,7 +75,7 @@ footer {
     text-align: center;
     padding: 3px 0; /* Reducido el padding para hacer el pie de página más pequeño */
     position: fixed;
-    width: 100%;
+    width: 90%;
     bottom: 0;
 }
 
